@@ -10,4 +10,4 @@
 
 <br>
 
-[Getit's Backend here](https://github.com/mp3mba/employeeAPIBackEnd)
+[Get it's Backend here](https://github.com/mp3mba/employeeAPIBackEnd)
